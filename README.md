@@ -8,7 +8,7 @@ Junior Data Engineer with a passion for data-driven problem-solving and a lifelo
 
 <h2>👨‍💻 Python Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/sdematteis00/Library_System.git)
+  - [Library Managment System](https://github.com/sdematteis00/Library_System.git)
 
 <h2>🗃️ Database Projects:</h2>
 
