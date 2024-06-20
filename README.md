@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Wm8mOGd.png">
+<img src="https://i.imgur.com/0dWiYei.png">
 
 <a href="https://www.linkedin.com/in/sara-de-matteis-7606531a6" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Sara De Matteis LinkedIn Profile" />
