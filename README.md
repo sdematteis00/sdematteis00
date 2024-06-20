@@ -14,3 +14,5 @@ Junior Data Engineer with a passion for data-driven problem-solving and a lifelo
 <h2>🗃️ Database Projects:</h2>
 
 <h2>📊 PowerBI Projects:</h2>
+
+  - [Spotify Analysis](https://github.com/sdematteis00/Spotify_report.git)
