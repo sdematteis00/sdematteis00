@@ -13,6 +13,8 @@ Junior Data Engineer with a passion for data-driven problem-solving and a lifelo
 
 <h2>🗃️ Database Projects:</h2>
 
+  - [Optimizing Online Sports Retail Revenue](https://github.com/sdematteis00/Sports-Retail-project.git)
+
 <h2>📊 PowerBI Projects:</h2>
 
   - [Spotify Analysis](https://github.com/sdematteis00/Spotify_report.git)
