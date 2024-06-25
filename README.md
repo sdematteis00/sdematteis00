@@ -10,7 +10,7 @@ Junior Data Engineer with a passion for data-driven problem-solving and a lifelo
 <h2>👨‍💻 Python Projects:</h2>
 
   - [Library Managment System](https://github.com/sdematteis00/Library_System.git)
-  - [](https://github.com/sdematteis00/students-score.git)
+  - [Studying grades and what influences them](https://github.com/sdematteis00/students-score.git)
 
 <h2>🗃️ Database Projects:</h2>
 
